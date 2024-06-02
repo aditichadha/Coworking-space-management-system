@@ -9,29 +9,6 @@ With this project, we want to enable ‘SmartSpaces’ to:
 - Understand the types of users and their behaviors.
 - Recognize the neighborhoods across Boston where the business is currently flourishing and can be further expanded.
 
-## Repository Structure
-
-'''
-Coworking-space-management-system/
-│
-├── EER_Diagram/
-│ └── eer_diagram.png
-│
-├── UML_Diagram/
-│ └── uml_diagram.png
-├── Relational Model and normalization/
-│ └── Relational Model and normalization.pdf
-│
-├── SQL_Queries/
-│ ├── create_tables.sql
-│ └── select_queries.sql
-│
-├── Connecting to database/
-│ └── CoworkingSpaces_Mysql_demo-Github.ipynb
-│
-└── README.md
-'''
-
 ### SQL Queries
 
 - `create_tables.sql`: Contains the SQL commands to create the database and tables.
