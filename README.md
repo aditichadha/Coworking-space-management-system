@@ -10,6 +10,7 @@ With this project, we want to enable ‘SmartSpaces’ to:
 - Recognize the neighborhoods across Boston where the business is currently flourishing and can be further expanded.
 
 ## Repository Structure
+
 '''
 Coworking-space-management-system/
 │
@@ -28,7 +29,8 @@ Coworking-space-management-system/
 ├── Connecting to database/
 │ └── CoworkingSpaces_Mysql_demo-Github.ipynb
 │
-└── README.md'''
+└── README.md
+'''
 
 ### SQL Queries
 
